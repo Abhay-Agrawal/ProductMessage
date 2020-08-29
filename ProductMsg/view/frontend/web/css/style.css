@@ -1,0 +1,9 @@
+.message{
+  text-align: left;
+  z-index: 10;
+  top: -300px;
+  position: relative;
+  height: 23px;
+  width: 50%;
+  background: #fff;
+}
